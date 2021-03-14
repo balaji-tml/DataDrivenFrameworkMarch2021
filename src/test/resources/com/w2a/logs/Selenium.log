@@ -1,0 +1,74 @@
+16:58:48,839 DEBUG devpinoyLogger:55 - Config file loaded!!!
+16:58:48,844 DEBUG devpinoyLogger:68 - OR file loaded!!!
+16:58:53,331 DEBUG devpinoyLogger:109 - Launched chrome browser and navigated to: http://localhost:6060/JEE_Tutorials/
+16:58:53,385 DEBUG devpinoyLogger:30 - Inside LoginTest Test!!!
+16:58:53,981 DEBUG devpinoyLogger:38 - Login Test executed successfully!!!
+16:58:54,328 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+16:58:54,333 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+16:58:54,333 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+16:58:54,333 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+16:58:54,333 DEBUG cache:45 - Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/USER/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+16:58:54,653 DEBUG devpinoyLogger:30 - Inside LoginTest Test!!!
+16:58:55,106 DEBUG devpinoyLogger:38 - Login Test executed successfully!!!
+16:58:55,401 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+16:58:55,401 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+16:58:55,402 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+16:58:55,402 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+16:58:55,404 DEBUG cache:45 - Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/USER/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+16:58:55,480 DEBUG devpinoyLogger:30 - Inside LoginTest Test!!!
+16:58:55,990 DEBUG devpinoyLogger:38 - Login Test executed successfully!!!
+16:58:56,288 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+16:58:56,289 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+16:58:56,289 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+16:58:56,290 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+16:58:56,290 DEBUG cache:45 - Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/USER/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+16:58:56,388 DEBUG devpinoyLogger:31 - Inside RegisterTest Test!!!
+16:58:56,980 DEBUG devpinoyLogger:40 - RegisterTest executed successfully!!!
+16:58:57,276 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+16:58:57,276 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+16:58:57,276 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+16:58:57,276 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+16:58:57,276 DEBUG cache:45 - Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/USER/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+16:58:57,316 DEBUG devpinoyLogger:31 - Inside RegisterTest Test!!!
+16:58:57,842 DEBUG devpinoyLogger:40 - RegisterTest executed successfully!!!
+16:58:58,123 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+16:58:58,124 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+16:58:58,124 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+16:58:58,124 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+16:58:58,124 DEBUG cache:45 - Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/USER/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+16:58:58,183 DEBUG devpinoyLogger:31 - Inside RegisterTest Test!!!
+16:58:58,751 DEBUG devpinoyLogger:40 - RegisterTest executed successfully!!!
+16:58:59,065 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+16:58:59,066 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+16:58:59,066 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+16:58:59,066 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+16:58:59,067 DEBUG cache:45 - Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/USER/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+16:58:59,108 DEBUG devpinoyLogger:31 - Inside RegisterTest Test!!!
+16:58:59,647 DEBUG devpinoyLogger:40 - RegisterTest executed successfully!!!
+16:58:59,932 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+16:58:59,933 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+16:58:59,933 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+16:58:59,933 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+16:58:59,934 DEBUG cache:45 - Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/USER/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+16:58:59,975 DEBUG devpinoyLogger:31 - Inside RegisterTest Test!!!
+16:59:00,552 DEBUG devpinoyLogger:40 - RegisterTest executed successfully!!!
+16:59:01,327 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+16:59:01,328 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+16:59:01,328 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+16:59:01,329 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+16:59:01,329 DEBUG cache:45 - Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/USER/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+16:59:01,374 DEBUG devpinoyLogger:31 - Inside RegisterTest Test!!!
+16:59:01,888 DEBUG devpinoyLogger:40 - RegisterTest executed successfully!!!
+16:59:02,200 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+16:59:02,201 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+16:59:02,201 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+16:59:02,201 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+16:59:02,202 DEBUG cache:45 - Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/USER/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+16:59:02,246 DEBUG devpinoyLogger:29 - Inside SearchStudentTest Test
+16:59:02,645 DEBUG devpinoyLogger:35 - SearchStudent Test executed successfully
+16:59:02,940 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+16:59:02,941 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+16:59:02,941 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+16:59:02,941 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+16:59:02,941 DEBUG cache:45 - Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/USER/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+16:59:03,680 DEBUG devpinoyLogger:119 - Test execution completed and chrome browser is closed!!!
